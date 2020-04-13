@@ -6,7 +6,7 @@ def tupleone():
     m = tuple(input_list)
     t = hash(m)
     print(t)
-    return t
+    #return t
 
 
 if __name__ == '__main__':
