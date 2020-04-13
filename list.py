@@ -5,6 +5,7 @@ def tupleone():
     input_list = [int(x) for x in input_list]
     m = tuple(input_list)
     t = hash(m)
+    print(t)
     return t
 
 
